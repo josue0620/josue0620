@@ -1,4 +1,5 @@
 ### Hola mi nombre es Josue 👋
+Actualmente soy estudiante de la carrera de Ingeniería en Sistemas Computacionales 📚✍
 
 |       	| Lunes                                         	| Martes                                       	| Miercoles                                    	| Jueves                                       	| Viernes                                      	|   	|
 |-------	|-----------------------------------------------	|----------------------------------------------	|----------------------------------------------	|----------------------------------------------	|----------------------------------------------	|---	|
