@@ -1,6 +1,7 @@
 ### Hola mi nombre es Josue 👋
 Actualmente soy estudiante de la carrera de Ingeniería en Sistemas Computacionales 📚✍
 
+Mi horario actual de clases es el siguiente
 |       	| Lunes                                         	| Martes                                       	| Miercoles                                    	| Jueves                                       	| Viernes                                      	|   	|
 |-------	|-----------------------------------------------	|----------------------------------------------	|----------------------------------------------	|----------------------------------------------	|----------------------------------------------	|---	|
 | 14:00 	| Gestión de Proyectos de Software              	| Gestión de Proyectos de Software             	| Gestión de Proyectos de Software             	| Gestión de Proyectos de Software             	| Gestión de Proyectos de Software             	|   	|
